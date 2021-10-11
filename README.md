@@ -8,6 +8,8 @@
   
   - Test_pointers.cpp - difference of passing vector by value vs by pointer using Armadillo vector class
   
+  - Subsetting.cpp - some examples of logical subsetting using Armadillo
+  
   - ArmadilloExamples.cpp - multiple examples of functions based on Armadillo library
 
 **R** files:
